@@ -1,0 +1,6 @@
+# Documentation
+*.pdf
+
+
+# Apple Things
+.DS_Store

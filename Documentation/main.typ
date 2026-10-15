@@ -2,11 +2,11 @@
 
 //Paper and font declarations
 #set page(paper: "a4", margin: 1in)
-#set text(font: "Times New Roman", size: 12pt)
+#set text(size: 12pt)
 
 // Coverpage and Table of Contents
 #align(center)[
-  #heading("Laptop Server Cluster", outlined: false) \
+  #heading("Parallel Compute Cluster", outlined: false) \
   With special thanks from: \
   Linux Club at KSU (LCKSU)
 ]
@@ -18,5 +18,3 @@
 // Beginning of content
 
 = Introduction
-
-= Computers Used
